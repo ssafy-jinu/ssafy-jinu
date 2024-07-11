@@ -4,11 +4,24 @@
 <div align="left">
 
 -------
+<div align="right">
+ 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbi-sz&count_bg=%2331A8FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbi-sz&count_bg=%2331A8FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)  
+<br>
+
+<div align="left">
+
+🎓금오공과대학교 기계공학과 졸업
+<br>
+
+💻삼성 청년 SW 아카데미 (SSAFY) 12기
+
+ <div align="right">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JI-NU&layout=compact)
 
-
+<div align="center">
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gkrdnjs43">
 
 [![ssafy-jinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JI-NU&include_all_commits=true&show_icons=true&theme=github_dark)](https://github.com/ssafy-jinu/github-readme-stats)
