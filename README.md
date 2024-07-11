@@ -11,7 +11,7 @@
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gkrdnjs43">
 
-[![ssafy-jinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JI-NU&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/ssafy-jinu/github-readme-stats)
+[![ssafy-jinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JI-NU&include_all_commits=true&show_icons=true&theme=github_dark)](https://github.com/ssafy-jinu/github-readme-stats)
  
 <br>
 
