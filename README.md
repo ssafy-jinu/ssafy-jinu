@@ -17,12 +17,16 @@
 
 💻삼성 청년 SW 아카데미 (SSAFY) 12기
 
- <div align="right">
+ <div align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JI-NU&layout=compact)
 
+<br>
+
 <div align="center">
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gkrdnjs43">
+ 
+<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gkrdnjs43">  
+
 
 [![ssafy-jinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JI-NU&include_all_commits=true&show_icons=true&theme=github_dark)](https://github.com/ssafy-jinu/github-readme-stats)
  
