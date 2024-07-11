@@ -9,6 +9,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbi-sz&count_bg=%2331A8FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br>
+<br>
 
 <div align="left">
 
@@ -16,6 +17,9 @@
 <br>
 
 💻삼성 청년 SW 아카데미 (SSAFY) 12기
+
+<br>
+<br>
 
  <div align="center">
   
